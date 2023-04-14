@@ -1,6 +1,7 @@
 package com.weatherApp.services;
 
 import com.weatherApp.model.LocationWeather;
+import com.weatherApp.repository.WeatherApi;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
